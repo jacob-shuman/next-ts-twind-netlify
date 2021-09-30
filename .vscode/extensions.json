@@ -4,6 +4,7 @@
         "sastan.twind-intellisense",
         "johnpapa.vscode-peacock",
         "oderwat.indent-rainbow",
-        "naumovs.color-highlight"
+        "naumovs.color-highlight",
+        "coenraads.bracket-pair-colorizer-2"
     ]
 }
