@@ -14,7 +14,7 @@
     "twind": "^0.16.16"
   },
   "devDependencies": {
-    "@arkweid/lefthook": "^0.7.6",
+    "@arkweid/lefthook": "^0.7.7",
     "@netlify/plugin-lighthouse": "^2.1.2",
     "@netlify/plugin-nextjs": "^3.9.0",
     "@types/react": "17.0.26",
