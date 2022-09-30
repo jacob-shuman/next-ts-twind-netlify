@@ -14,7 +14,7 @@
     "twind": "^0.16.17"
   },
   "devDependencies": {
-    "@netlify/plugin-lighthouse": "^2.1.2",
+    "@netlify/plugin-lighthouse": "^3.6.0",
     "@netlify/plugin-nextjs": "^3.9.0",
     "@types/react": "17.0.26",
     "eslint": "7.32.0",
